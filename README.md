@@ -8,7 +8,6 @@ I am a Systems for Internet student at UFSM Santa Maria, currently approaching m
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [dev.gustavopsantos@gmail.com](mailto:dev.gustavopsantos@gmail.com)
-* 🚀  I'm currently working on [CompactJr](http://compactjr.com)
 * 🧠  I'm learning React, Java SpringBoot
 * 🤝  I'm open to collaborating on Web front-end
 
